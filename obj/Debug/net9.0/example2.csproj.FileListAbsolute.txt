@@ -1,0 +1,14 @@
+C:\calismalarim\example2\example2\bin\Debug\net9.0\example2.exe
+C:\calismalarim\example2\example2\bin\Debug\net9.0\example2.deps.json
+C:\calismalarim\example2\example2\bin\Debug\net9.0\example2.runtimeconfig.json
+C:\calismalarim\example2\example2\bin\Debug\net9.0\example2.dll
+C:\calismalarim\example2\example2\bin\Debug\net9.0\example2.pdb
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.AssemblyInfoInputs.cache
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.AssemblyInfo.cs
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.csproj.CoreCompileInputs.cache
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.dll
+C:\calismalarim\example2\example2\obj\Debug\net9.0\refint\example2.dll
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.pdb
+C:\calismalarim\example2\example2\obj\Debug\net9.0\example2.genruntimeconfig.cache
+C:\calismalarim\example2\example2\obj\Debug\net9.0\ref\example2.dll
